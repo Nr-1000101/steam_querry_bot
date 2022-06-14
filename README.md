@@ -1,4 +1,4 @@
-# Steam server Querry Bot
+# Steam server querry qot
 
 This discord bot uses a2s module to querry steam servers and give details of the server and players currently playing.
 
