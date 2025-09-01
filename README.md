@@ -8,4 +8,4 @@ Here is an example output:
 
 ![alt text](https://github.com/Nr-1000101/QB/blob/main/bot.png?raw=true)
 
-May the odds be in your favor.
+May the odds be ever in your favor.
